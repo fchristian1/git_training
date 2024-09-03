@@ -1,3 +1,5 @@
+ist eine übersetzung von https://github.com/UnseenWizzard/git_training unter https://github.com/UnseenWizzard/git_training unter der Attribution-ShareAlike 4.0 International lizenz
+
 # Git-Konzepte lernen, nicht nur Befehle
 
 **Ein interaktives Git-Tutorial, das dir beibringt, wie Git funktioniert, und nicht nur, welche Befehle du ausführen musst.**
