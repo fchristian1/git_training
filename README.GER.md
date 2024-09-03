@@ -1,4 +1,4 @@
-ist eine übersetzung von https://github.com/UnseenWizzard/git_training unter https://github.com/UnseenWizzard/git_training unter der Attribution-ShareAlike 4.0 International lizenz
+ist eine übersetzung von https://github.com/UnseenWizzard/git_training unter unter der Attribution-ShareAlike 4.0 International lizenz
 
 # Git-Konzepte lernen, nicht nur Befehle
 
